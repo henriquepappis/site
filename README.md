@@ -1,0 +1,4 @@
+### CURRICULO ###
+- PHP
+- MYSQL 
+- BOOTSTRAP
